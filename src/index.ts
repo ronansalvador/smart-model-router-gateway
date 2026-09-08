@@ -15,5 +15,5 @@ app
   })
   .then((response) => {
     console.log('Response status code:', response.statusCode)
-    console.log('Response nody:', response.body)
+    console.log('Response body:', response.body)
   })
